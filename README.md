@@ -1,4 +1,12 @@
-<h2 align="left">Tecnologias</h2>
+<h2 align="left">About Me</h2>
+
+###
+
+<p align="left">- Java Developer with spring boot<br>- Software Developer at @itau</p>
+
+###
+
+<h2 align="left">Techs</h2>
 
 ###
 
@@ -36,7 +44,7 @@
 
 ###
 
-<h2 align="left">Estatísticas</h2>
+<h2 align="left">Stats</h2>
 
 ###
 
